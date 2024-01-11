@@ -1,0 +1,20 @@
+Title	Genre	Pages	Friends
+The Hunger Games by Suzanne Collins	Dystopian	384	8
+The Atlas Six by Olivie Blake	Fantasy	416	7
+The Poppy War by R.F. Kuang	Fantasy	544	1
+Remote Control by Nnedi Okorafor	Fantasy	160	1
+The Illustrated Man by Ray Bradbury	Sci-Fi	288	1
+Severance by Ling Ma	Dystopian	304	1
+Fires of Winter by Johanna Lindsey	Horror	400	2
+Frankestein by Mary Shelley	Classic	211	3
+A Picture of Dorian Gray by Oscar Wilde	Classic	333	2
+The Song of Achilles by Madeline Miller	Romance	416	8
+Red Dragon by Thomas Harris	Horror	348	1
+The Death of Ivan Illyich by Leo Tolstoy	Classic	100	2
+War of the Foxes by Richard Siken 	Poetry	96	1
+Film for Her by Orion Carloto	Poetry	192	1
+The Giver by Lois Lowry	Dystopian	208	10
+Cinder by Marissa Meyer	Sci-Fi	390	2
+The Duke and I by Julia Quinn	Romance	415	1
+Honey and Spice by Bolu Babalola	Romance	368	2
+Breathless by Beverly Jenkins	Romance	384	2

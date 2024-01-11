@@ -1,0 +1,41 @@
+Title	Genre	Run Time (min)	Friends
+Midsommar	Horror	148	4
+Hello Dolly	Musical	146	1
+The Longest Ride	Romance	139	2
+Harry Potter and the Order of the Phoenix	Fantasy	138	10
+Get Out	Horror	104	7
+Inception	Action	148	5
+Speed	Action	116	2
+Iron Man	Action	126	9
+A Walk to Remember	Romance	102	2
+Moonlight	Drama	111	4
+The Fast and the Furious	Action	106	8
+Oppenheimer	Historical	180	10
+La La Land	Musical	128	5
+Mamma Mia!	Musical	108	4
+The Photograph	Romance	106	1
+Just Wright	Romance	100	2
+IT	Horror	135	5
+Maleficent	Fantasy	97	2
+Everything Everywhere All At Once	Drama	139	10
+Up	Family	100	3	
+Frozen Family 110	
+Moana Family 100		
+Thor: Ragnorok	Action	144	5
+Iron Man	Action	126	9
+Willy Wonka	Comedy	130	4
+Doctor Who	Comedy	123	1
+Dune: Part 2	Action	158	2
+Kung Fu Panda	Family	111	3
+The Marvels	Action	133	2
+Inside Out 2	Family	112	5
+The Grinch	Comedy	110	10
+Parasite	Horror	150	10
+The Shape of the Water	Romance	136	3
+Million dollar Baby	Drama	113	9
+A Beautiful Mind	Drama	166	6
+Rain Man	Drama	156	10
+West Side Story	Drama	133	7
+Lemondade Mouth	Family	110	5
+High School Musical	Family	99	10
+Camp Rock	Family	110	8

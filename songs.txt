@@ -1,0 +1,22 @@
+Title	Genre	Length	Friends	
+Toxic by Britney Spears	Pop	3:18	8	
+Drowning by A Boogie Wit Da Hoogie	Hip-Hop	3:28	7	
+Mine by Taylor Swift	Country	3:51	4	
+Water by Tyla	R&B	3:20	10	
+Green Eyes by Erykah Badu	Soul	10:04	1	
+Toxic by Kehlani	R&B	2:48	5	
+Over It by Summer Walker	R&B			
+You Belong With Me by Taylor Swift	Country	3:52	5	
+Heaven by Kane Brown	Country	2:59	1	
+"Take Me Home, Country Roads by John Denver"	Country	3:17	4	
+H.O.L.Y by Floridia Georgia Line	Country	3:14	2	
+Crazy in Love by Beyonce	Pop	3:55	9	
+Hollaback Girl by Gwen Stefani	Pop	3:19	10	
+Me & U by Cassie	Pop	3:12	4	
+range brothers by Baby Keem	Hip-Hop	5:17	5	
+Shmoney by Bobby Shmurda 	Hip-Hop	2:49	2	
+All Night Parking by Adele	Soul	2:41	1	
+Wish I Didn't Miss You by Angie Stone	Soul	4:29	1	
+Gimme More by Britney Spears	Pop	4:11	6	
+All To Well	Pop	10:00	1
+Fade	Pop	3:49	1

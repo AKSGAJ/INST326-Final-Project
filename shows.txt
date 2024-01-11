@@ -1,0 +1,20 @@
+Title	Genre	Seasons	Friends
+Hannibal	Horror	3	1
+Abbott Elementary	Comedy	2	3
+The 100	Dystopian	7	9
+Grey's Anatomy	Drama	20	5
+White Collar	Crime	6	1
+Shameless	Comedy	11	7
+This is Us	Drama	6	3
+One Tree Hill	Drama	9	6
+American Horror Stories	Horror	3	5
+Avatar: The Last Airbender	Action	3	10
+The Office	Comedy	9	5
+The Handmaid's Tale	Dystopian	5	2
+The Last of Us	Dystopian	1	4
+Normal People	Romance	1	1
+Bridgerton	Romance	2	5
+Succession	Drama	4	3
+Yellowstone	Drama	4	1
+Hart of Dixie	Romance	4	1
+Invicible	Action	2	5
